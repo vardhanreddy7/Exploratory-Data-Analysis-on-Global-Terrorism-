@@ -1,1 +1,2 @@
-# Exploratory-Data-Analysis-on-Global-Terrorism-
+# Exploratory-Data-Analysis-on-Global-Terrorism
+In this file I have performed the Exploratory Data Analysis on Global Terrorism Data set.
